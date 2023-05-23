@@ -1,5 +1,6 @@
 # MLConference_Palic2023
 Machine Learning Conference Palić 2023 :: Intro to ML Workshop
+![](DK_ML_ConfPalic2023.png)
 
 On the zeroth day of the [ML Conference Palić 2023](https://ml-conference.rs/), held at [InspiraHub](https://inspirahub.rs/) in Subotica, the [DataKolektiv](https://www.datakolektiv.com/) team conducted a one-day, free workshop on Introduction to Machine Learning for a selected group of participants.
 
